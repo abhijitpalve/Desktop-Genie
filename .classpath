@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/comfyj-2.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/engine-gecko.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/engine-gecko15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/engine-ie.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/engine-webkit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/jniwrap-3.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/jxbrowser-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/license.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/winpack-3.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/xulrunner15-mac.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/xulrunner15-windows.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/xulrunner-linux.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/xulrunner-linux64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/xulrunner-mac.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/Compressed/jxbrowser-3.3-cross-desktop-win_mac_linux/lib/xulrunner-windows.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tushar/Downloads/mysql-connector-java-3.0.17-ga/mysql-connector-java-3.0.17-ga/mysql-connector-java-3.0.17-ga-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
